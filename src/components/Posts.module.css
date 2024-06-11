@@ -1,0 +1,7 @@
+section ul {
+  list-style: none;
+  display: grid;
+  justify-content: space-around;
+  grid-template-columns: repeat(4, 210px);
+  gap: 25px;
+}

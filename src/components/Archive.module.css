@@ -1,0 +1,31 @@
+* {
+  padding: 0;
+}
+
+aside {
+  margin-bottom: 50px;
+}
+
+aside h2 {
+  text-transform: uppercase;
+  color: rgb(108, 104, 104);
+}
+
+aside button {
+  color: rgb(70, 67, 67);
+}
+
+aside ul {
+  list-style: none;
+}
+
+aside ul li {
+  display: flex;
+  justify-content: space-between;
+  gap: 5px;
+}
+
+aside ul li p strong {
+  text-transform: capitalize;
+  color: rgb(70, 67, 67);
+}

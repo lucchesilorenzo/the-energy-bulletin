@@ -1,0 +1,8 @@
+form {
+  padding: 24px;
+  background-color: #fff4e6;
+  display: flex;
+  justify-content: space-around;
+  gap: 24px;
+  margin-bottom: 40px;
+}
